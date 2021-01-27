@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* CSS Document */
+.body{background-color: #B4E6EE;}
+.container
+{background-color: #D5A3DD;
+	padding: 10px;
+	margin-left: 80px;
+	margin-right: 80px;
+	border: 5px solid #000000;}
+{font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif""Lucida Bright", "DejaVu Serif", Georgia, "serif";}
+#text{font-weight: 900;}
