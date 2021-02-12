@@ -1,4 +1,5 @@
 @charset "UTF-8";
+*{margin:0;padding:0;border:0;}
 /* CSS Document */
 .body{background-color: #B4E6EE;}
 .container
