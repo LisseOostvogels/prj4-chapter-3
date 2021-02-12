@@ -2,7 +2,8 @@
 *{margin:0;padding:0;border:0;}
 /* CSS Document */
 .body
-{background-color: #B4E6EE;}
+{background-color: #B4E6EE;
+	font-family: 'Raleway', sans-serif;}
 #header{
 	background-image: url("../images/Sea.jpg");
 		padding: 20px}
@@ -11,6 +12,5 @@
 	padding: 10px;
 	margin-left: 80px;
 	margin-right: 80px;
-	border: 5px solid #000000;
-	font-family: 'Raleway', sans-serif;}
+	border: 5px solid #000000;}
 #text{font-weight: 700;}
