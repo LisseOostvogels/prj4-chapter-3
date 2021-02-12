@@ -1,12 +1,16 @@
 @charset "UTF-8";
 *{margin:0;padding:0;border:0;}
 /* CSS Document */
-.body{background-color: #B4E6EE;}
+.body
+{background-color: #B4E6EE;}
+#header{
+	background-image: url("../images/Sea.jpg");
+		padding: 20px}
 .container
 {background-color: #D5A3DD;
 	padding: 10px;
 	margin-left: 80px;
 	margin-right: 80px;
 	border: 5px solid #000000;
-	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";}
-#text{font-weight: 900;}
+	font-family: 'Raleway', sans-serif;}
+#text{font-weight: 700;}
