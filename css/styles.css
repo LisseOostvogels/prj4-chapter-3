@@ -1,26 +1,31 @@
 @charset "UTF-8";
 /* CSS Document */
 * { margin: 0; padding: 0; border: 0; }
+
 .body {
 color: #FFFFFF;
-	background: #FFFFFF;
+background: #FFFFFF;
 text-align: center;
 font-family: 'Montserrat Alternates', sans-serif;
 font-size: 14px;
 }
+
 .container-fluid{
 background:#8972E8;
 }
+
 #header {
 font-family: 'Montserrat Alternates', sans-serif;
 font-weight: 500;
 font-size: 25px;
 color: white;
 }
+
 .jumbotron{
 color:#FFFFFF;
 background: #7084FF;
 }
+
 .container {
 color: black;
 background-color:#E46CF5;
@@ -28,13 +33,16 @@ padding:10px;
 margin: 20px auto;
 border: 3px solid #040421;
 }
+
 .title {
 margin: 25px;
 font-size: 25px;
 }
+
 .blue{
 margin: 20px;
 }
+
 .blueimage{
 max-height: 300px;
 max-width: 200px;
